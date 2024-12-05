@@ -13,7 +13,7 @@ Please Note that as I am in the UK, the logos you see will almost exclusively be
 I use these files within [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) & [DizqueTV](https://github.com/vexorian/dizquetv) and to create my own channels and listen to radio within Plex but when accessing the server remotely, the Plex Desktop App doesn't load many of the icons as it is expecting them to be on a local IP which it cannot access as I am not at home, thus this github database is my solution.
 
 # I can't find what I'm Looking for!
-Need a specifc varient of a logo, an SVG or a radio station I do not have?
+Need a specific variant of a logo, an SVG or a radio station I do not have?
 I'd suggest taking a look at [dp247's MediaPortal Repository](https://github.com/dp247/mediaportal-uk-logos/).
 
 # Copyright & Fair Use
