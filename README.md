@@ -10,7 +10,7 @@ The logos of some Radio Stations have been slightly altered to fit a preferred r
 Please Note that as I am in the UK, the logos you see will almost exclusively be for stations available in the UK.
 
 # Example Usage
-I use these files within ErsatzTV & DizqueTV and to create my own channels and listen to radio within Plex but when accessing the server remotely, the Plex Desktop App doesn't load many of the icons as it is expecting them to be on a local IP which it cannot access as I am not at home, thus this github database is my solution.
+I use these files within [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) & [DizqueTV](https://github.com/vexorian/dizquetv) and to create my own channels and listen to radio within Plex but when accessing the server remotely, the Plex Desktop App doesn't load many of the icons as it is expecting them to be on a local IP which it cannot access as I am not at home, thus this github database is my solution.
 
 # I can't find what I'm Looking for!
 Need a specifc varient of a logo, an SVG or a radio station I do not have?
