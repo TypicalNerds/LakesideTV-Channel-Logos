@@ -5,7 +5,7 @@ If there is a TV network called LakesideTV, please note I am not affiliated with
 
 These files are intended for usage within IPTV & radio clients.
 
-The logos of some Radio Stations have been slightly altered to fit a preferred resolution to make it display correctly in my Radio client.
+The logos of some Radio Stations have been slightly altered to fit a preferred resolution to make it display in a much easier to read way in Plex.
 
 Please Note that as I am in the UK, the logos you see will almost exclusively be for stations available in the UK.
 
