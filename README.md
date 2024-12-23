@@ -3,7 +3,7 @@ This is a database of Radio Station logos as well as Logos I have either Custom-
 
 If there is a TV network called LakesideTV, please note I am not affiliated with them in any manner, it is just the name I use to refer to the [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) channels I setup for myself.
 
-These files are intended for usage within IPTV & radio clients.
+These files are intended for usage within IPTV & radio clients such as [Open Android Radio](https://github.com/TypicalNerds/Open-Android-Radio/)
 
 The logos of some Radio Stations have been slightly altered to fit a preferred resolution to make it display in a much easier to read way in Plex.
 
