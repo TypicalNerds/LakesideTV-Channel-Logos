@@ -1,3 +1,6 @@
+# Warning
+When it comes to real radio station logos, this repository has been deprecated and will have real stations removed shortly, please check the new [Radio Logos repo](https://github.com/TypicalNerds/radio-logos) for new logos.
+
 # What is this?
 This is a database of Radio Station logos as well as Logos I have either Custom-Built or modified to suit my own usage.
 
