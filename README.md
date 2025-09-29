@@ -20,5 +20,4 @@ Need a specific variant of a logo, an SVG or a radio station I do not have?
 I'd suggest taking a look at [dp247's MediaPortal Repository](https://github.com/dp247/mediaportal-uk-logos/).
 
 # Copyright & Fair Use
-Most of the TV Channel logos were put together by me and you should feel free to download and utilise them.
-When it comes to the Radio Stations, those logos belong to their respective owners and will be removed if they request it.
+Most of the TV Channel logos were put together by me and you should feel free to download and utilise them but these are not suitable for commercial use as the fonts utilised may need to be licensed for commercial use.
