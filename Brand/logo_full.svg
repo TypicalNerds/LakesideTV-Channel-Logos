@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1319.42 342.36">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: OpenSans-Regular, 'Open Sans';
+        font-size: 287.64px;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <g id="Layer_3_Image" data-name="Layer 3 Image">
+      <image id="Layer_3_Image-2" data-name="Layer 3 Image" width="45" height="324" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAFECAYAAACzlre8AAAACXBIWXMAAAsSAAALEgHS3X78AAAB0klEQVR4nO3SoXFVARRF0ZNH4rAIKqEiSqEtSqANRCwTBXxEBDjmmf3yZ9ay1+w5cx9uXz992fZ528v+etjbcttr09O2b4/b3m/7cGnSOR+Pbb+urjjp57HX6e/Ksbf3v/91t0sfV0ecdXfBm+iO6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6IroiuiK6Mqx7ffVEWcd2x6ujjjr2Ha7OuKsu1363dURJz0+bvux7Xnbyz+Ht7b+ba9NT9u+/wEGbhMwM808tAAAAABJRU5ErkJggg=="/>
+    </g>
+    <g id="LAKESIDE" class="cls-2">
+      <text class="cls-3" transform="translate(44.85 264.13)"><tspan x="0" y="0">LAKESIDE</tspan></text>
+    </g>
+  </g>
+</svg>
